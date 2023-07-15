@@ -1,36 +1,57 @@
 
-## Hi there  <br>I'm Janek 🤙
-### I'm a computer science student and developer!!!
 
-- 📖 I’m currently learning everything 
-- 🤯 Struggling with Flutter, but I'm dealing with it
-- 🤔 Fun fact: All watches in the movie Pulp Fiction are set to 4:20 
-- 🧐 Conclusions: it's not a coincidence
-- 🤝 I'm looking to collaborate with other people and companies 
-- ✨ 2023 goal: Learning Flutter to perfection
+<p align="center">
+  <a href="https://github.com/janrydzewski">
+    <img src="https://raw.githubusercontent.com/janrydzewski/janrydzewski/main/image.png" alt="Jan Rydzewski" /></a>
+</p>
 
-#### Connect with me:
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Flutter+Developer;Bia%C5%82ystok+University+of+Technology;Always+learning+new+things" /></a>
+</p>
 
-[<img align="left" alt="email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
-[<img align="left" alt="facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
-<br/>
+  <h3 align="center">🔥 Streak Stats</h3><br/>
 
-#### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java.png" />
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.png" />
-<img align="left" alt="Cpp" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.png" />
-<img align="left" alt="Csharp" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-[gmail]: mailto:jan.rydzewski1337@gmail.com
-[facebook]: https://www.facebook.com/jan.rydzewski1/
+  <p align="center"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="janrydzewski's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=janrydzewski&theme=monokai-metallian&hide_border=true"/></p>
+
+
+  <h3 align="center">💻 GitHub Profile Stats</h3><br/>
+
+
+
+  <p align="center"><img alt="janrydzewski's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=janrydzewski&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></p>
+
+
+
+  <h3 align="center">👨‍💻 Skills </h3><br/>
+
+  <p align="center">
+       <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+     <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  </p>
+
+
+  <h3 align="center">💻 Software and Tools</h3><br/>
+
+  <p align="center">
+      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+      <a href="#"><img alt="iOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
+      <a href="#"><img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a><br/>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></a><br/>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+      
+      
+  </p>
+
+
+
