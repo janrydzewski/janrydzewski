@@ -21,7 +21,7 @@
 
 
 
-  <p align="center"><img alt="janrydzewski's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=janrydzewski&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></p>
+  <p align="center"><img alt="janrydzewski's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=janrydzewski&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&langs_count=8" height="192px"/></p>
 
 
 
